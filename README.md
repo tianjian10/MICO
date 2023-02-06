@@ -1,3 +1,7 @@
+# Solutions for MICO
+
+My solutions for MICO is in [src2](./src2/).
+
 # MICO
  
 Welcome to the Microsoft Membership Inference Competition (MICO)!
